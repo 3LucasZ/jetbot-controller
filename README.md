@@ -1,3 +1,2 @@
-# Rosbot Dashboard
+# Jetbot Controller
 
-Documentation coming soon!!
