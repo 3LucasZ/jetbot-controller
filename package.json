@@ -1,5 +1,5 @@
 {
-  "name": "rosbot-dashboard",
+  "name": "jetbot-controller",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
